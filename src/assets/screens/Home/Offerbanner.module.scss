@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    padding: auto;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 711px;
+    
+
+    .banners{
+        display: flex;
+        flex-direction: row;
+        gap: 36px;
+
+        img{
+            height: 367px;
+        }
+    }
+    
+}
